@@ -1,5 +1,5 @@
 # Practica-Etiquetas
-# Curbside-Thai
+
 Pagina HTML 
 
 <h1>Resultado</h1>
